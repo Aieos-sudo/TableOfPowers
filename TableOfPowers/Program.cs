@@ -32,7 +32,7 @@ namespace TableOfPowers
             for (int i = Convert.ToInt32(startNumber); i <= Convert.ToInt32(stopNumber); i++)
             {
                 double increment = numberIncrementCalculation(i);
-;               double square = powerCalculationSquare(i);
+                double square = powerCalculationSquare(i);
                 double cube = powerCalculationCube(i);
                 Console.Write(increment);
                 Console.Write("            " + square);
