@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.exe
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.deps.json
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.dll
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.1\TableOfPowers.pdb
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.dll
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.pdb
+C:\Users\Aieos_\Documents\code\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.1\TableOfPowers.genruntimeconfig.cache
