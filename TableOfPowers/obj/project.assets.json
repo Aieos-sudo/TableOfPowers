@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Aieos_\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Noah\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aieos_\\Documents\\code\\TableOfPowers\\TableOfPowers\\TableOfPowers.csproj",
+      "projectUniqueName": "E:\\Coding\\GitHub\\Stone-TableOfPowers\\TableOfPowers\\TableOfPowers\\TableOfPowers.csproj",
       "projectName": "TableOfPowers",
-      "projectPath": "C:\\Users\\Aieos_\\Documents\\code\\TableOfPowers\\TableOfPowers\\TableOfPowers.csproj",
-      "packagesPath": "C:\\Users\\Aieos_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aieos_\\Documents\\code\\TableOfPowers\\TableOfPowers\\obj\\",
+      "projectPath": "E:\\Coding\\GitHub\\Stone-TableOfPowers\\TableOfPowers\\TableOfPowers\\TableOfPowers.csproj",
+      "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
+      "outputPath": "E:\\Coding\\GitHub\\Stone-TableOfPowers\\TableOfPowers\\TableOfPowers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aieos_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
